@@ -24,7 +24,7 @@ A mobile app in the ByteDance ecosystem that offers a daily free allowance.
 * **The Catch:** Requires a Chinese App Store account, a VPN, and the UI is entirely in Mandarin.
 
 ### **Method 3: Native Jimeng Web (Official Platform)**
-The original web interface for the Seedance 2.0 model.
+The original web interface for the Seedance 2.0 model. [Jimeng](https://jimeng.jianying.com/)
 * **The "Zero Cost" Part:** Offers occasional new-user trial credits (varies by season).
 * **The Catch:** Requires a +86 SMS verification and a Douyin login. Payment for extra credits is extremely difficult without a local Chinese bank card.
 
